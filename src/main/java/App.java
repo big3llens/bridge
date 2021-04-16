@@ -11,7 +11,7 @@ public class App {
         simpleKeyboard1.start();
         simpleKeyboard1.startWork();
         simpleKeyboard1.startGame();
-        System.out.println("-----------------------------------------------");
+        System.out.println("-------------------------------------------------------------");
         SimpleKeyboard simpleKeyboard2 = new SimpleKeyboard(oc);
         simpleKeyboard2.start();
         simpleKeyboard2.startWork();
